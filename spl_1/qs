@@ -1,0 +1,5 @@
+grandfather(namihei, tara).
+son(katsuo, fune).
+daughter(X, fune).
+parents(namihei, Y).
+daughter(X, fune), parents(namihei, Y).
